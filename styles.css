@@ -779,7 +779,7 @@ footer .footercont3 p {
     justify-content: center;
     background-color: #ffffff;
     padding: 20px; 
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .about-container .about-items {
@@ -814,9 +814,18 @@ footer .footercont3 p {
 .about-container p {
     font-family: "Rubik" sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 13px;
+    font-size: 15px;
     margin-top: 30px;
     text-align: left;
+
+}
+
+
+
+.about-items .program-description {
+    text-align: center;
+    font-size: 16px;
+
 }
 
 
