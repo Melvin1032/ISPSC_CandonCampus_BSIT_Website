@@ -255,7 +255,7 @@ nav .menu li a:hover {
 .career-section {
     text-align: center;
     padding: 50px;
-    margin: 70px 0;
+    margin: 10px 0 0 0;
 }
 
 .career-section h2 {
@@ -779,7 +779,7 @@ footer .footercont3 p {
     justify-content: center;
     background-color: #ffffff;
     padding: 20px; 
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .about-container .about-items {
