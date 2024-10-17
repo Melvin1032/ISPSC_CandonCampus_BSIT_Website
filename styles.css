@@ -564,7 +564,7 @@ nav .menu li a:hover {
 }
 
 footer .footer-items > div {
-    width: 450px;
+    width: 350px;
     height: 300px;
     /* background-color: #292929; */
     margin: 40px 10px; 
@@ -602,6 +602,9 @@ footer .footercont1 ul li a{
     margin-right: 10px;
 }
 
+
+
+
 /* FOOTER CONTAINER 2 */
 
 footer .footercont2 h2 {
@@ -637,10 +640,12 @@ footer .footercont2 ul li a:hover {
 }
 
 
+
+
 /* FOOTER CONTAINER 3 */
 
 footer .footercont3 img {
-    width: 450px;
+    width: 350px;
 }
 
 
@@ -789,7 +794,7 @@ footer .footercont3 p {
 }
 
 .about-container .about-items > div {
-    width: 400px;
+    width: 300px;
     height: 300px;
     margin: 20px 10px; 
     text-align: center;
@@ -802,6 +807,7 @@ footer .footercont3 p {
     font-size: 30px;
     border-bottom: 1px solid orangered;
     margin-bottom: 10px;
+    margin-top: 50px;
     padding: 20px 0;
 }
 
@@ -816,10 +822,9 @@ footer .footercont3 p {
     color: rgb(0, 0, 0);
     font-size: 15px;
     margin-top: 30px;
-    text-align: left;
+    text-align: center;
 
 }
-
 
 
 .about-items .program-description {
